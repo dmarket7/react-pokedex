@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot for adopted dogs 1`] = `
+<div>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <h3
+      className="card-title"
+    >
+      Eevee
+    </h3>
+    <img
+      alt="Pokecard"
+      className="card-img-top"
+      src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    />
+    <small>
+      fire
+    </small>
+    <small>
+      62
+    </small>
+  </div>
+</div>
+`;
